@@ -1,6 +1,6 @@
 # Blurring
 <br><br>
- The project is about a cargo tracking system which is a desktop application.
+ The project is about Image Processing.
  <br><br>
 blurring an image is make the image less sharp. This can be done by smoothing the colour transition between the pixels. 
 To accomplish this target, we need to apply a convolution operation of a specialized matrix, called kernel, to the image's matrix.The project has been created for this mission.
